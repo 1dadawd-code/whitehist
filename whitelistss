@@ -1,7 +1,15 @@
 {
-  "ENABLED": false,
-  "USERS": {
-    "9335903916": false,
-    "8108310262": true
+  "SETTINGS": {
+    "VERSION": "1.0",
+    "ENABLED": true
+  },
+  "WHITELIST": {
+    "8108310262": {
+      "name": "mn129op",
+      "rank": "Owner"
+    }
+  },
+  "BLACKLIST": {
+    "9335903916": "Developer"
   }
 }
