@@ -1,8 +1,7 @@
-return {
-    DISABLED = true, -- 🔴 خليها true عشان تقفل على الكل
-
-    USERS = {
-        [9335903916] = true,
-        [None] = true,
-    }
+{
+  "ENABLED": true,
+  "USERS": {
+    "9335903916": true,
+    "8108310262": true
+  }
 }
